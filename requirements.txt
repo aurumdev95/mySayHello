@@ -1,4 +1,4 @@
-android==1.0
+android==5.0.2
 astroid==2.8.2
 audiostream==0.2
 beautifulsoup4==4.10.0
